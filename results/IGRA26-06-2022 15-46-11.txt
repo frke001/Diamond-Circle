@@ -1,0 +1,12 @@
+Igrac  - Player1
+		Figure1 (obicna, RED) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja - [da]
+		Figure2 (obicna, RED) - predjeni put (5-15-25-35-45) - stigla do cilja - [ne] vrijeme kretanja 4s
+		Figure3 (super brza, RED) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja - [da]
+		Figure4 (leteca, RED) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja - [da]
+
+Igrac  - Player2
+		Figure5 (leteca, BLUE) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22-23-33-43-51-59-49-39-31-32-42-50-40-41) - stigla do cilja - [da]
+		Figure6 (obicna, BLUE) - predjeni put (5) - stigla do cilja - [ne] vrijeme kretanja 0s
+		Figure7 (obicna, BLUE) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37-29-21-13-14-24-34-44-52-60-68-58-48-38-30-22) - stigla do cilja - [ne] vrijeme kretanja 0s
+		Figure8 (super brza, BLUE) - predjeni put (5-15-25-35-45-53-61-69-77-67-57-47-37) - stigla do cilja - [ne] vrijeme kretanja 12s
+

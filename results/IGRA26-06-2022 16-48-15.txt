@@ -1,0 +1,12 @@
+Igrac  - Player1
+		Figure1 (obicna, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22) - stigla do cilja - [ne] vrijeme kretanja 25s
+		Figure2 (leteca, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 53s
+		Figure3 (leteca, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 56s
+		Figure4 (leteca, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 24s
+
+Igrac  - Player2
+		Figure5 (leteca, GREEN) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 50s
+		Figure6 (super brza, GREEN) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 37s
+		Figure7 (obicna, GREEN) - predjeni put (4) - stigla do cilja - [ne] vrijeme kretanja 0s
+		Figure8 (leteca, GREEN) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 43s
+

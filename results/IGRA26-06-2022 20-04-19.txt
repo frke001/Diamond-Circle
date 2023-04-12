@@ -1,0 +1,24 @@
+Igrac  - Player1
+		Figure1 (obicna, YELLOW) - predjeni put (4-12-20-28-34-40) - stigla do cilja - [ne] vrijeme kretanja 6s
+		Figure2 (super brza, YELLOW) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18) - stigla do cilja - [ne] vrijeme kretanja 71s
+		Figure3 (super brza, YELLOW) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 67s
+		Figure4 (obicna, YELLOW) - predjeni put (4) - stigla do cilja - [ne] vrijeme kretanja 9s
+
+Igrac  - Player2
+		Figure5 (obicna, RED) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 78s
+		Figure6 (leteca, RED) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 114s
+		Figure7 (leteca, RED) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 69s
+		Figure8 (super brza, RED) - predjeni put (4) - stigla do cilja - [ne] vrijeme kretanja 0s
+
+Igrac  - Player4
+		Figure13 (super brza, BLUE) - predjeni put (4-12-20-28-34-40) - stigla do cilja - [ne] vrijeme kretanja 4s
+		Figure14 (obicna, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32) - stigla do cilja - [ne] vrijeme kretanja 59s
+		Figure15 (leteca, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 116s
+		Figure16 (super brza, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 43s
+
+Igrac  - Player3
+		Figure9 (obicna, GREEN) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19) - stigla do cilja - [ne] vrijeme kretanja 95s
+		Figure10 (super brza, GREEN) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 38s
+		Figure11 (obicna, GREEN) - predjeni put (4-12-20-28-34-40-46) - stigla do cilja - [ne] vrijeme kretanja 22s
+		Figure12 (super brza, GREEN) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja - [da] vrijeme kretanja 56s
+
