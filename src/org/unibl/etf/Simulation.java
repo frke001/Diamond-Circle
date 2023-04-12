@@ -253,7 +253,7 @@ public class Simulation extends Thread {
 			System.out.println(player.getName() + " je zavrsio igru!");
 	}
 
-	// ako su svi igraci ostali bez figura kraj igre
+	// if all the players have lost their figures -> end of the game
 	private static boolean isEnded() {
 		for (var el : Simulation.playersInGame)
 			if (el.getFigures().size() != 0)
@@ -261,7 +261,7 @@ public class Simulation extends Thread {
 		return true;
 	}
 
-	// formiranje niza boja
+	// forming an array of colors
 	private static ArrayList<Color> formColorArray() {
 		ArrayList<Color> colors = new ArrayList<>();
 		for (var el : Color.values()) {
@@ -270,7 +270,7 @@ public class Simulation extends Thread {
 		return colors;
 	}
 
-	// dodjeljivanje boja igracima
+	// assigning colors to players
 	private static void playerInitialization() {
 		ArrayList<Color> colors = Simulation.formColorArray();
 		Collections.shuffle(colors);
@@ -281,7 +281,7 @@ public class Simulation extends Thread {
 		}
 	}
 
-	// formiranje spila karata 40 + 12 spec
+	// forming a deck of cards 40 + 12 specialized
 	private static void formCardDeck() {
 //		int numberOfFields = 1;
 //		for (int i = 1; i <= 40; i++) {
@@ -306,7 +306,7 @@ public class Simulation extends Thread {
 		}
 	}
 
-	// za svakog igraca prema njegovoj boji generisemo cetiri figure
+	// we generate four figures for each player according to his color
 	private static void addFiguresToAllPlayers() {
 		Random random = new Random();
 		Simulation.allFigures.clear();
