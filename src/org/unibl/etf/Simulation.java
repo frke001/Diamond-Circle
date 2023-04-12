@@ -38,7 +38,7 @@ public class Simulation extends Thread {
 	public static Object lockForNotifyObject = new Object();
 	public static GameDurationTimer gameDurationTimer;
 
-	// ostalo je fiksno za svaku partiju
+
 	public Simulation() {
 		Figure.counter = 0;
 		Simulation.addFiguresToAllPlayers();
